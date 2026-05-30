@@ -1,4 +1,4 @@
-# ✈ Agentic AI Travel Planning Assistant
+# ✈ Agentic AI Travel Planner
 
 An intelligent travel planner built with **LangChain ReAct Agent** that autonomously searches flights, hotels, live weather, and attractions to generate optimized day-wise itineraries for Indian travel destinations.
 
